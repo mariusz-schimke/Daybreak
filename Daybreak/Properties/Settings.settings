@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Daybreak.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="YahooapisUrl" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://query.yahooapis.com/</Value>
+    </Setting>
+    <Setting Name="SunriseSunsetApiUrl" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.sunrise-sunset.org</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
